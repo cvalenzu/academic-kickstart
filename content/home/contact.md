@@ -2,7 +2,7 @@
 # Contact widget.
 widget = "contact"
 active = true
-date = 2019-09-05T00:00:00
+date = 2018-09-05T00:00:00
 
 title = "Contact"
 subtitle = ""
@@ -12,5 +12,6 @@ weight = 70
 
 # Automatically link email and phone?
 autolink = true
+
 
 +++
