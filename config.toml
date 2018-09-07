@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://cvalenzuela.me/"
 
 # Title of your site
 title = "Camilo Valenzuela"
@@ -58,11 +58,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Camilo Valenzuela Carrasco"
-  role = "MSc in Computer Science Student at UTFSM"
+  role = "MSc in Computer Science Student at"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  #organizations = [ { name = "", url = "" } ]
+  organizations = [ { name = "Universidad Técnica Federico Santa María", url = "https://usm.cl/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
