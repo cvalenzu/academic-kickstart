@@ -30,7 +30,7 @@ weight = 5
 
 # Biography
 
-**Hi!** I'm **Camilo Valenzuela**. Although I studied Informatics Engineering, I believe my strong area is Statistics and Machine Learning.
+**Hi!** I'm **Camilo Valenzuela**. Although I studied Informatics Engineering, I believe my strong areas are Statistics and Machine Learning.
 
 Most of my work has been done in Astroinformatics, but im not afraid to go out of my confort zone to deal with a challenging problem, now I'm working on Wind Power Forecasting and Time Series Models.
 
