@@ -292,10 +292,10 @@ enableGitInfo = false
   url = "#contact"
   weight = 6
 
-[[menu.main]]
-   name = "CV"
-   url = "files/cv.pdf"
-   weight = 7
+#[[menu.main]]
+#   name = "CV"
+#   url = "files/cv.pdf"
+#   weight = 7
 
 # Search.
 [params.search]
