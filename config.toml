@@ -229,10 +229,10 @@ enableGitInfo = false
     icon_pack = "fas"
     link = "mailto:camilo.valenzuela@alumnos.usm.cl"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "//twitter.com/cvalenzu91"
+  #[[params.social]]
+  #  icon = "twitter"
+  #  icon_pack = "fab"
+  #  link = "//twitter.com/cvalenzu91"
 
   [[params.social]]
     icon = "github"
@@ -243,16 +243,16 @@ enableGitInfo = false
     icon = "linkedin"
     icon_pack = "fab"
     link = "//linkedin.com/in/cvalenzu/?locale=en_US"
-  [[params.social]]
-    icon = "instagram"
-    icon_pack = "fab"
-    link = "//instagram.com/cvalenzuc"
+  #[[params.social]]
+  #  icon = "instagram"
+  #  icon_pack = "fab"
+  #  link = "//instagram.com/cvalenzuc"
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  [[params.social]]
-    icon = "cv"
-    icon_pack = "ai"
-    link = "files/CV.pdf"
+  #[[params.social]]
+  #  icon = "cv"
+  #  icon_pack = "ai"
+  #  link = "files/CV.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
